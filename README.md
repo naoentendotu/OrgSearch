@@ -65,6 +65,3 @@ Durante o desenvolvimento, um proxy foi configurado no arquivo package.json para
 
 ### Detalhes de Contrato
 ![Detalhes de Contrato](public/imagens/screenshots/detalhesContrato.png)
-
-
-
