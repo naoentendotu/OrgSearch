@@ -61,7 +61,7 @@ Durante o desenvolvimento, um proxy foi configurado no arquivo package.json para
 ![Página Inicial](public/imagens/screenshots/paginaInicial.png)
 
 ### Resultado da Busca
-![Resultado da Busca](public/imagens/screenshots/resultadoBusca.png)
+![Resultado da Busca](public/imagens/screenshots/resultado.png)
 
 ### Detalhes de Contrato
-![Detalhes de Contrato](public/imagens/screenshots/detalhesContrato.png)
+![Detalhes de Contrato](public/imagens/screenshots/detalhesCont.png)
