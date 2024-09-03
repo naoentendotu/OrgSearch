@@ -22,7 +22,7 @@ OrgSearch é uma aplicação web desenvolvida em React onde consulta de contrato
 
 - Node.js e npm instalados.
 
-### Passos
+### Passo a passo
 
 1. **Clone o Repositório:**
 
